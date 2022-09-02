@@ -42,3 +42,5 @@ bcrypt, connect-mongo, dotenv, ejs, express, express-flash, express-session, mon
  Have fun testing and improving it! 😎
 
 
+<!-- test user: tony@tony.com tly1w1e1r -->
+<!-- want to count the number of completed tasks!! but how.. -->
